@@ -5,4 +5,4 @@ This is a repo about some trivial and random stuff around C language
 
 * [A minimal C program](./a-minimal-c-program/README.md)
 * [Call clib function](./call-clib-function/README.md)
-* [Call user function](./call-user-function/README.md)
+* [Call user function I](./call-user-function-I/README.md)
