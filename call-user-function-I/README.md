@@ -7,7 +7,7 @@ The user developed function `foo` is declared in header file [include/foo.h](./i
 ```
 + -- main.c
 + -- include
-     + -- foo.h
+|    + -- foo.h
 + -- src
      + -- foo.c
 ```
