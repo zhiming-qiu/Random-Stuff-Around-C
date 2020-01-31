@@ -9,3 +9,4 @@ This is a repo about some trivial and random stuff around C language
 * [Call clib function](./call-clib-function/README.md)
 * [Call user function I](./call-user-function-I/README.md)
 * [Call user function II](./call-user-function-II/README.md)
+* [Call user function III](./call-user-function-III/README.md)
